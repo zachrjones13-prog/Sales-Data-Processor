@@ -1,0 +1,12 @@
+line 37 | invalid sale | Taylor Smith,Mouse,abc,29.98
+line 128 | invalid sale | Jordan Lee,Monitor,,199.99
+line 219 | invalid sale | Casey Brown,Keyboard,2,
+line 341 | invalid sale | ,Webcam,3,119.97
+line 468 | invalid sale | Alex Morgan,Headset,-2,-99.98
+line 572 | invalid sale | Jamie Davis,Mouse,2,not_a_price
+line 689 | invalid sale | Robin Allen,,1,29.99
+line 743 | invalid sale | Avery Miller,Monitor,1,
+line 866 | invalid sale | Sam Wilson,Keyboard,2,
+line 974 | invalid sale | Blake King,Webcam,1,-39.99
+line 1082 | invalid sale | Quinn Lewis,Headset,2.5,124.98
+line 1167 | invalid sale | Reese Walker,Mouse,0,0
